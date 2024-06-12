@@ -142,11 +142,11 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
-# api key mail gun b77be0f9d5c35bf87634e1fb65243439-32a0fef1-93414625
+# api key mail gun 
 
-DEFAULT_FROM_EMAIL = 'vrishinbtechsocet@gmail.com'
+DEFAULT_FROM_EMAIL = 
 EMAIL_HOST = 'smtp.mailgun.org'
-EMAIL_HOST_USER = 'postmaster@sandbox16ce4be24b484be696a47d44cbc2f0a4.mailgun.org'
-EMAIL_HOST_PASSWORD = 'd6d0a937b47af7470e00e330bb70c193-32a0fef1-a06d9cbb'
+EMAIL_HOST_USER = 
+EMAIL_HOST_PASSWORD = 
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
